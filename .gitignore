@@ -5,3 +5,5 @@
 /build/
 /Debug/
 /Release/
+.vscode/
+.idea/
